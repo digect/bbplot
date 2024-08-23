@@ -1,0 +1,14 @@
+{
+    "configurations": [
+        {
+            "name": "CPP",
+            "defines": [],
+            "includePath": [
+                
+            ],
+            "cppStandard": "c++17",
+            "configurationProvider": "ms-vscode.makefile-tools"
+        }
+    ],
+    "version": 4
+}
